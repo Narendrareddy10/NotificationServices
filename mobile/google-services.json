@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "509698017522",
+    "firebase_url": "https://smartshelf-a93f5.firebaseio.com",
+    "project_id": "smartshelf-a93f5",
+    "storage_bucket": "smartshelf-a93f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509698017522:android:906cef4f2ce4df40",
+        "android_client_info": {
+          "package_name": "com.tesco.services.poc.stocknotification.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509698017522-tr7mdhlfln3attjlu0s1ccdtkp6nig4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfxYQ2P5vZqwgWvFbwN2tD4tXvXileF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
